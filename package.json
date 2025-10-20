@@ -1,0 +1,13 @@
+{
+  "name": "01_end-to-end-testing",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "cypress": "^15.5.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
